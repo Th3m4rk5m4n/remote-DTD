@@ -1,1 +1,1 @@
-<!ENTITY % file SYSTEM "file:///etc/passwd">
+<!ENTITY marksman SYSTEM "file:///etc/passwd">
